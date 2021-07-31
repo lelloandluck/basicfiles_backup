@@ -3,7 +3,7 @@ title: Python在Ajax中的应用
 date: 2018-09-23 09:12:11
 tags: [python自动化, Ajax]
 categories:
- - python自动化
+ - 自动化测试
  - Ajax
 ---
 

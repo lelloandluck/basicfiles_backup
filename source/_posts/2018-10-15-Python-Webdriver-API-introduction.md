@@ -2,11 +2,11 @@
 title: Python Webdriver API introduction
 date: 2018-10-15 17:17:36
 tags:
- - python自动化
+ - 自动化测试
  - selenium
  - Webdriver
 categories:
- - python自动化
+ - 自动化测试
  - selenium
  - Webdriver
 ---

@@ -1,16 +1,16 @@
 [{
-	"name": "五月雨变奏电音",
-	"artist": "AnimeVibe",
-	"url": "http://xxx.com/music1.mp3",
-	"cover": "http://xxx.com/music-cover1.png"
+	"name": "这片草原",
+	"artist": "降央卓玛",
+	"url": "/medias/music/zhepiancaoyuan.mp4",
+	"cover": "/medias/banner/6.jpg"
 }, {
-	"name": "Take me hand",
+	"name": "好听的印度舞曲",
 	"artist": "DAISHI DANCE,Cecile Corbel",
-	"url": "/medias/music/music2.mp3",
-	"cover": "/medias/music/cover2.png"
+	"url": "/medias/music/indiaDance.mp3",
+	"cover": "/medias/banner/60.jpg"
 }, {
-	"name": "Shape of You",
-	"artist": "J.Fla",
-	"url": "http://xxx.com/music3.mp3",
-	"cover": "http://xxx.com/music-cover3.png"
+	"name": "海滩别",
+	"artist": "马兰",
+	"url": "/medias/music/Malan_haitanbie.mp3",
+	"cover": "/medias/banner/0.jpg"
 }]

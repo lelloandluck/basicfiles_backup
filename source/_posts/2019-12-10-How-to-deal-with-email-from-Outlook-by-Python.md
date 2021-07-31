@@ -2,12 +2,10 @@
 title: How to deal with email from Outlook by Python
 date: 2019-12-10 21:53:24
 tags:
- - Python自动化
  - 自动化测试
  - outlook
 categories:
  - 自动化测试
- - Python自动化
  - Outlook
 ---
 

@@ -7,7 +7,7 @@ title: Alan.Yuan
 subtitle: "Whatever you're doing, keep on doing it."
 #'Change is a part of life'
 description: ''
-keywords:
+keywords: QA, SW Test, Automation Test, QTP, UFT, Python, QC, Test Expert, 软件测试, 软件测试专家, 自动化测试专家, 测试经理, 测试管理, 软件自动化测试
 author: Alan_Yuan
 language: en
 timezone: ''
@@ -76,7 +76,7 @@ prism_plugin:
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
   path: ''
-  per_page: 6
+  per_page: 9
   order_by: -date
 
 # Category & Tag
@@ -143,5 +143,5 @@ baidusitemap:
 deploy:
   type: git
   repository: https://github.com/lelloandluck/lelloandluck.github.io.git/
-  #repository: git@github.com:lelloandluck Pekinguniversity123/lelloandluck.github.io.git
+  #repository: https://lelloandluck:Pekinguniversity123@github.com/lelloandluck/lelloandluck.github.io.git
   branch: master

@@ -2,10 +2,10 @@
 title: Python在Excel中的应用
 date: 2017-09-22 21:45:41
 tags:
- - python自动化
+ - python
  - excel
 categories:
- - python自动化
+ - 自动化测试
  - excel
 ---
 
